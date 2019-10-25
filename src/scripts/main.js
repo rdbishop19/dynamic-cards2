@@ -1,0 +1,1 @@
+console.log("You're not an idiot... You're a Crippled Nincompoop."); //working
